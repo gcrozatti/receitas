@@ -1,7 +1,7 @@
 # App Receitas Fácil - Sujeito Programador
 Material do Workshop: https://sujeitoprogramador.com/insider-1
 
-### Aplicativo desenvolvido em React Native para listagens de receitas e com recursos para favoritar e um campo de pesquisa para encontrar com facilidade sua receita. O aplicativo possui uma interface limpa e intuitiva para acompanhar o passo a passo e sempre reproduzir sua receita com perfeição.
+Aplicativo desenvolvido em React Native para listagens de receitas e com recursos para favoritar e um campo de pesquisa para encontrar com facilidade sua receita. O aplicativo possui uma interface limpa e intuitiva para acompanhar o passo a passo e sempre reproduzir sua receita com perfeição.
 
 ## UI/UX
 https://www.figma.com/file/U5FIz9fg1qPzjNXti1oXag/App-Receita-F%C3%A1cil?node-id=0%3A1&t=UaQvmnSlIlqBNaMY-1
